@@ -2,7 +2,7 @@ import Todo from "./components/Todo"
 
 const App = () => {
   return (
-    <div className="max-w-lg mx-auto">
+    <div className="w-full flex items-center justify-center">
       <Todo/>
     </div>
   )
